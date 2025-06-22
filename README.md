@@ -1,4 +1,4 @@
-# To-Do List App iOS 🌤
+# To-Do List App iOS
 
 Welcome to the **To-Do List App iOS**! This is a simple To-Do list app built with SwiftUI that fetches date and live weather data using the OpenWeatherMap API. You can add tasks, check them off, and see current weather information for your location.
 
@@ -12,11 +12,11 @@ Welcome to the **To-Do List App iOS**! This is a simple To-Do list app built wit
 
 ---
 
-## Setup Instructions 🛠️
+## Setup Instructions
 
 Before running this project locally, you need to add your **API Key** from **OpenWeatherMap**. Follow the steps below:
 
-### 1. Get Your OpenWeatherMap API Key 🌍
+### 1. Get Your OpenWeatherMap API Key
 
 1. Go to the [OpenWeatherMap website](https://openweathermap.org/api) and subscribe to the free API plan (limited to 1000 calls a day).
 2. Check your email for your API key and instructions.
@@ -24,7 +24,7 @@ Before running this project locally, you need to add your **API Key** from **Ope
 
 ---
 
-### 2. Add Your API Key to the Project 🔑
+### 2. Add Your API Key to the Project
 
 1. Open the `ContentView.swift` file in the project.
 2. Find the line where the API Key is set. It should look something like this:
