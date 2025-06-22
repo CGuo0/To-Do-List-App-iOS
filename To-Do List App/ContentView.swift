@@ -14,7 +14,7 @@ struct ContentView: View {
     @FocusState private var isTaskEditingFocused: Bool
     @State private var weatherInfo: WeatherInfo? = nil
 
-    private let apiKey = "79125d2117474e236fa65575fb76d8a1"
+    private let apiKey = "API_KEY"
 
     private var currentDayString: String {
         let formatter = DateFormatter()
